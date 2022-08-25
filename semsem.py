@@ -7,7 +7,7 @@ if op == '+':
     print(toplam)
 elif op == '-':
     cikarma = sayi1 - sayi2
-    print(+ cikarma)
+    print( cikarma)
 elif op == '*':
     carpma = sayi1 * sayi2
     print(carpma)
