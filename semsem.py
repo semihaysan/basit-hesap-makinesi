@@ -20,4 +20,4 @@ elif op == '/':
         print(bolme)
 
 else :
-    print("私のディック、私は番号を入力すると言いました、あなたは何をしていますか?")
+    print("parantez icindeki operatorlerden birini giriniz")
